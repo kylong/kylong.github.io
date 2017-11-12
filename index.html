@@ -89,8 +89,18 @@
       </section>
    </body>
    <script src="https://www.w3schools.com/lib/w3.js"></script>
+   <script>w3.includeHTML();</script>
+   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+   <script type="javascript" src="https://raw.githubusercontent.com/thesmart/jquery-scrollspy/master/scrollspy.js"></script>
    <script>
-	w3.includeHTML();
-	</script>
-
+	$(document).load(function(){
+		$('h2').on('scrollSpy:enter', function() {
+			console.log('enter:', $(this).attr('id'));
+		});
+		$('h2').on('scrollSpy:exit', function() {
+			console.log('exit:', $(this).attr('id'));
+		});
+		$('h2').scrollSpy();
+	});
+   </script>
 </html>
