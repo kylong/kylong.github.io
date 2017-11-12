@@ -9,3 +9,7 @@
  .content-table table tr td:nth-child(2){
 	width: 200px;
  }
+ 
+ .include-html{
+	margin-bottom: 40px;
+ }
