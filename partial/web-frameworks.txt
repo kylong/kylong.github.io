@@ -1,0 +1,655 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/web-frameworks">
+                        Web Frameworks						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/actionhero.js.png" alt="actionhero.js">
+                           </td>
+                           <td>
+                              actionhero.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Adobe ColdFusion.svg" alt="n">
+                           </td>
+                           <td>
+                              Adobe ColdFusion					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/akka-http.png" alt="P">
+                           </td>
+                           <td>
+                              Akka HTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Angular.svg" alt="l">
+                           </td>
+                           <td>
+                              Angular Material					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache Wicket.svg" alt="t">
+                           </td>
+                           <td>
+                              Apache Wicket					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Asymptix PHP Framework.png" alt="k">
+                           </td>
+                           <td>
+                              Asymptix PHP Framework					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Banshee.png" alt="e">
+                           </td>
+                           <td>
+                              Banshee					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Bonfire.png" alt="e">
+                           </td>
+                           <td>
+                              Bonfire					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/bubble.png" alt="e">
+                           </td>
+                           <td>
+                              Bubble					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CakePHP.png" alt="P">
+                           </td>
+                           <td>
+                              CakePHP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Catberry.js.png" alt="Catberry.js">
+                           </td>
+                           <td>
+                              Catberry.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CherryPy.png" alt="y">
+                           </td>
+                           <td>
+                              CherryPy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CodeIgniter.png" alt="r">
+                           </td>
+                           <td>
+                              CodeIgniter					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Connect.png" alt="t">
+                           </td>
+                           <td>
+                              Connect					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Cowboy.png" alt="y">
+                           </td>
+                           <td>
+                              Cowboy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Dancer.png" alt="r">
+                           </td>
+                           <td>
+                              Dancer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Django.png" alt="o">
+                           </td>
+                           <td>
+                              Django					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/enduro.js.svg" alt="enduro.js">
+                           </td>
+                           <td>
+                              enduro.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Express.png" alt="s">
+                           </td>
+                           <td>
+                              Express					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Fat-Free Framework.png" alt="Fat-Free Framework">
+                           </td>
+                           <td>
+                              Fat-Free Framework					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Flask.png" alt="k">
+                           </td>
+                           <td>
+                              Flask					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Web Toolkit.png" alt="t">
+                           </td>
+                           <td>
+                              Google Web Toolkit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/hapi.js.png" alt="hapi.js">
+                           </td>
+                           <td>
+                              hapi.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Java.png" alt="t">
+                           </td>
+                           <td>
+                              Java Servlet					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JavaServer Faces.png" alt="s">
+                           </td>
+                           <td>
+                              JavaServer Faces					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Java.png" alt="s">
+                           </td>
+                           <td>
+                              JavaServer Pages					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/kemalcr.png" alt="l">
+                           </td>
+                           <td>
+                              Kemal					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Kendo UI.png" alt="I">
+                           </td>
+                           <td>
+                              Kendo UI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Koa.png" alt="a">
+                           </td>
+                           <td>
+                              Koa					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Koala Framework.png" alt="k">
+                           </td>
+                           <td>
+                              Koala Framework					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Kohana.png" alt="a">
+                           </td>
+                           <td>
+                              Kohana					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Laravel.png" alt="l">
+                           </td>
+                           <td>
+                              Laravel					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lift.png" alt="t">
+                           </td>
+                           <td>
+                              Lift					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lighty.png" alt="y">
+                           </td>
+                           <td>
+                              Lighty					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/M.R. Inc.png" alt="M.R. Inc SiteFrame">
+                           </td>
+                           <td>
+                              M.R. Inc SiteFrame					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Material Design Lite.png" alt="e">
+                           </td>
+                           <td>
+                              Material Design Lite					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Materialize CSS.png" alt="S">
+                           </td>
+                           <td>
+                              Materialize CSS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Microsoft ASP.NET.png" alt="Microsoft ASP.NET">
+                           </td>
+                           <td>
+                              Microsoft ASP.NET					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Milligram.png" alt="m">
+                           </td>
+                           <td>
+                              Milligram					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mojolicious.png" alt="s">
+                           </td>
+                           <td>
+                              Mojolicious					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mono.png" alt="o">
+                           </td>
+                           <td>
+                              Mono					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Neos.svg" alt="w">
+                           </td>
+                           <td>
+                              Neos Flow					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Nette Framework.png" alt="k">
+                           </td>
+                           <td>
+                              Nette Framework					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/zeit.svg" alt="Next.js">
+                           </td>
+                           <td>
+                              Next.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ophal.png" alt="l">
+                           </td>
+                           <td>
+                              Ophal					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Penguin.svg" alt="n">
+                           </td>
+                           <td>
+                              Penguin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/pimcore.svg" alt="e">
+                           </td>
+                           <td>
+                              Pimcore					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Play.svg" alt="y">
+                           </td>
+                           <td>
+                              Play					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Pure CSS.png" alt="S">
+                           </td>
+                           <td>
+                              Pure CSS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Revel.png" alt="l">
+                           </td>
+                           <td>
+                              Revel					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ruby on Rails.png" alt="s">
+                           </td>
+                           <td>
+                              Ruby on Rails					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sails.js.svg" alt="Sails.js">
+                           </td>
+                           <td>
+                              Sails.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Semantic-ui.png" alt="Semantic-ui">
+                           </td>
+                           <td>
+                              Semantic-ui					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Shadow.png" alt="w">
+                           </td>
+                           <td>
+                              Shadow					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Shapecss.svg" alt="s">
+                           </td>
+                           <td>
+                              Shapecss					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Snap.png" alt="p">
+                           </td>
+                           <td>
+                              Snap					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Swiftlet.png" alt="t">
+                           </td>
+                           <td>
+                              Swiftlet					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Symfony.png" alt="y">
+                           </td>
+                           <td>
+                              Symfony					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ThinkPHP.png" alt="P">
+                           </td>
+                           <td>
+                              ThinkPHP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/total.js.png" alt="total.js">
+                           </td>
+                           <td>
+                              total.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TwistPHP.png" alt="P">
+                           </td>
+                           <td>
+                              TwistPHP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Twitter Bootstrap.png" alt="p">
+                           </td>
+                           <td>
+                              Twitter Bootstrap					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/uCore.png" alt="e">
+                           </td>
+                           <td>
+                              uCore					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/UIKit.png" alt="t">
+                           </td>
+                           <td>
+                              UIKit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/uKnowva.png" alt="a">
+                           </td>
+                           <td>
+                              uKnowva					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Vinala.png" alt="a">
+                           </td>
+                           <td>
+                              Vinala					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Visual WebGUI.png" alt="I">
+                           </td>
+                           <td>
+                              Visual WebGUI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Web2py.png" alt="y">
+                           </td>
+                           <td>
+                              Web2py					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Woltlab Community Framework.png" alt="k">
+                           </td>
+                           <td>
+                              Woltlab Community Framework					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Yii.png" alt="i">
+                           </td>
+                           <td>
+                              Yii					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ZK.png" alt="K">
+                           </td>
+                           <td>
+                              ZK					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ZURB Foundation.png" alt="n">
+                           </td>
+                           <td>
+                              ZURB Foundation					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

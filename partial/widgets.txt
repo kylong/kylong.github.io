@@ -1,0 +1,214 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/widgets">
+                        Widgets						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AddShoppers.png" alt="s">
+                           </td>
+                           <td>
+                              AddShoppers					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AddThis.svg" alt="s">
+                           </td>
+                           <td>
+                              AddThis					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AddToAny.png" alt="y">
+                           </td>
+                           <td>
+                              AddToAny					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Facebook.svg" alt="k">
+                           </td>
+                           <td>
+                              Facebook					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FlexSlider.png" alt="r">
+                           </td>
+                           <td>
+                              FlexSlider					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Plus.svg" alt="s">
+                           </td>
+                           <td>
+                              Google Plus					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Hello Bar.png" alt="r">
+                           </td>
+                           <td>
+                              Hello Bar					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Klarna.svg" alt="t">
+                           </td>
+                           <td>
+                              Klarna Checkout					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Kontaktify.png" alt="y">
+                           </td>
+                           <td>
+                              Kontaktify					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Linkedin.svg" alt="n">
+                           </td>
+                           <td>
+                              Linkedin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ManyContacts.png" alt="s">
+                           </td>
+                           <td>
+                              ManyContacts					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Meebo.png" alt="o">
+                           </td>
+                           <td>
+                              Meebo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MyBlogLog.png" alt="g">
+                           </td>
+                           <td>
+                              MyBlogLog					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Outbrain.png" alt="n">
+                           </td>
+                           <td>
+                              Outbrain					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OWL Carousel.png" alt="l">
+                           </td>
+                           <td>
+                              OWL Carousel					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Pinterest.svg" alt="t">
+                           </td>
+                           <td>
+                              Pinterest					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Po.st.png" alt="Po.st">
+                           </td>
+                           <td>
+                              Po.st					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Proximis Omnichannel.png" alt="e">
+                           </td>
+                           <td>
+                              Proximis Web to Store					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ShareThis.png" alt="s">
+                           </td>
+                           <td>
+                              ShareThis					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Shopalize.png" alt="e">
+                           </td>
+                           <td>
+                              Shopalize					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Stackla.png" alt="a">
+                           </td>
+                           <td>
+                              Stackla					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SumoMe.png" alt="e">
+                           </td>
+                           <td>
+                              SumoMe					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Twitter.svg" alt="r">
+                           </td>
+                           <td>
+                              Twitter					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

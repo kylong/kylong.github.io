@@ -1,0 +1,25 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/webcams">
+                        Webcams						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Grandstream.png" alt="m">
+                           </td>
+                           <td>
+                              Grandstream					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MOBOTIX.png" alt="X">
+                           </td>
+                           <td>
+                              MOBOTIX					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/lms">
+                        LMS						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Chamilo.png" alt="o">
+                           </td>
+                           <td>
+                              Chamilo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Dokeos.png" alt="s">
+                           </td>
+                           <td>
+                              Dokeos					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Moodle.png" alt="e">
+                           </td>
+                           <td>
+                              Moodle					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Scholica.svg" alt="a">
+                           </td>
+                           <td>
+                              Scholica					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

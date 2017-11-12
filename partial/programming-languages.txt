@@ -1,0 +1,150 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/programming-languages">
+                        Programming Languages						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AsciiDoc.png" alt="c">
+                           </td>
+                           <td>
+                              AsciiDoc					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/C++.png" alt="C++">
+                           </td>
+                           <td>
+                              C++					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CFML.png" alt="L">
+                           </td>
+                           <td>
+                              CFML					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Erlang.png" alt="g">
+                           </td>
+                           <td>
+                              Erlang					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Go.svg" alt="o">
+                           </td>
+                           <td>
+                              Go					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Haskell.png" alt="l">
+                           </td>
+                           <td>
+                              Haskell					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Java.png" alt="a">
+                           </td>
+                           <td>
+                              Java					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lua.png" alt="a">
+                           </td>
+                           <td>
+                              Lua					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/node.js.png" alt="Node.js">
+                           </td>
+                           <td>
+                              Node.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Perl.png" alt="l">
+                           </td>
+                           <td>
+                              Perl					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/PHP.svg" alt="P">
+                           </td>
+                           <td>
+                              PHP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Python.png" alt="n">
+                           </td>
+                           <td>
+                              Python					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="f">
+                           </td>
+                           <td>
+                              Rdf					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ruby.png" alt="y">
+                           </td>
+                           <td>
+                              Ruby					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Scala.png" alt="a">
+                           </td>
+                           <td>
+                              Scala					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="l">
+                           </td>
+                           <td>
+                              Sparql					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

@@ -1,0 +1,717 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/javascript-frameworks">
+                        JavaScript Frameworks						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AlloyUI.png" alt="I">
+                           </td>
+                           <td>
+                              AlloyUI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AngularJS.svg" alt="S">
+                           </td>
+                           <td>
+                              AngularJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Aurelia.svg" alt="a">
+                           </td>
+                           <td>
+                              Aurelia					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Backbone.js.png" alt="Backbone.js">
+                           </td>
+                           <td>
+                              Backbone.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/basket.js.png" alt="basket.js">
+                           </td>
+                           <td>
+                              basket.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/BEM.png" alt="M">
+                           </td>
+                           <td>
+                              BEM					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="Boba.js">
+                           </td>
+                           <td>
+                              Boba.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Bootstrap Table.svg" alt="e">
+                           </td>
+                           <td>
+                              Bootstrap Table					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Catberry.js.png" alt="Catberry.js">
+                           </td>
+                           <td>
+                              Catberry.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/DataTables.png" alt="s">
+                           </td>
+                           <td>
+                              DataTables					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Deployd.png" alt="d">
+                           </td>
+                           <td>
+                              Deployd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/DHTMLX.png" alt="X">
+                           </td>
+                           <td>
+                              DHTMLX					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Dojo.png" alt="o">
+                           </td>
+                           <td>
+                              Dojo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ef.js.svg" alt="ef.js">
+                           </td>
+                           <td>
+                              ef.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ember.js.png" alt="Ember.js">
+                           </td>
+                           <td>
+                              Ember.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Enyo.png" alt="o">
+                           </td>
+                           <td>
+                              Enyo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ExtJS.png" alt="S">
+                           </td>
+                           <td>
+                              ExtJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FancyBox.png" alt="x">
+                           </td>
+                           <td>
+                              FancyBox					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Hammer.js.png" alt="Hammer.js">
+                           </td>
+                           <td>
+                              Hammer.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Handlebars.png" alt="s">
+                           </td>
+                           <td>
+                              Handlebars					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HeadJS.png" alt="S">
+                           </td>
+                           <td>
+                              HeadJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Hogan.js.png" alt="Hogan.js">
+                           </td>
+                           <td>
+                              Hogan.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Immutable.js.png" alt="Immutable.js">
+                           </td>
+                           <td>
+                              Immutable.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/InfernoJS.png" alt="S">
+                           </td>
+                           <td>
+                              InfernoJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Jo.png" alt="o">
+                           </td>
+                           <td>
+                              Jo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/jQuery.svg" alt="y">
+                           </td>
+                           <td>
+                              jQuery					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/jQuery UI.svg" alt="I">
+                           </td>
+                           <td>
+                              jQuery UI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Knockout.js.png" alt="Knockout.js">
+                           </td>
+                           <td>
+                              Knockout.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="Lazy.js">
+                           </td>
+                           <td>
+                              Lazy.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lightbox.png" alt="x">
+                           </td>
+                           <td>
+                              Lightbox					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/List.js.png" alt="List.js">
+                           </td>
+                           <td>
+                              List.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lo-dash.png" alt="Lo-dash">
+                           </td>
+                           <td>
+                              Lo-dash					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Marionette.js.svg" alt="Marionette.js">
+                           </td>
+                           <td>
+                              Marionette.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/math.js.png" alt="math.js">
+                           </td>
+                           <td>
+                              math.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mean.io.png" alt="Mean.io">
+                           </td>
+                           <td>
+                              Mean.io					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Meteor.png" alt="r">
+                           </td>
+                           <td>
+                              Meteor					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MochiKit.png" alt="t">
+                           </td>
+                           <td>
+                              MochiKit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Modernizr.png" alt="r">
+                           </td>
+                           <td>
+                              Modernizr					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Moment.js.svg" alt="e">
+                           </td>
+                           <td>
+                              Moment Timezone					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Moment.js.svg" alt="Moment.js">
+                           </td>
+                           <td>
+                              Moment.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/moon.svg" alt="n">
+                           </td>
+                           <td>
+                              Moon					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MooTools.png" alt="s">
+                           </td>
+                           <td>
+                              MooTools					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mustache.png" alt="e">
+                           </td>
+                           <td>
+                              Mustache					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Neonclear.png" alt="r">
+                           </td>
+                           <td>
+                              Neonclear					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Petrojs.png" alt="s">
+                           </td>
+                           <td>
+                              Petrojs					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phaser.png" alt="r">
+                           </td>
+                           <td>
+                              Phaser					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Polymer.png" alt="r">
+                           </td>
+                           <td>
+                              Polymer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/prettyPhoto.png" alt="o">
+                           </td>
+                           <td>
+                              prettyPhoto					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Prototype.png" alt="e">
+                           </td>
+                           <td>
+                              Prototype					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ramda.png" alt="a">
+                           </td>
+                           <td>
+                              Ramda					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/React.png" alt="t">
+                           </td>
+                           <td>
+                              React					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RequireJS.png" alt="S">
+                           </td>
+                           <td>
+                              RequireJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Reveal.js.png" alt="Reveal.js">
+                           </td>
+                           <td>
+                              Reveal.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RightJS.png" alt="S">
+                           </td>
+                           <td>
+                              RightJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Riot.png" alt="t">
+                           </td>
+                           <td>
+                              Riot					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RxJS.png" alt="S">
+                           </td>
+                           <td>
+                              RxJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/script.aculo.us.png" alt="script.aculo.us">
+                           </td>
+                           <td>
+                              script.aculo.us					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Select2.png" alt="2">
+                           </td>
+                           <td>
+                              Select2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sencha Touch.png" alt="h">
+                           </td>
+                           <td>
+                              Sencha Touch					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Slimbox.png" alt="x">
+                           </td>
+                           <td>
+                              Slimbox					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Slimbox 2.png" alt="2">
+                           </td>
+                           <td>
+                              Slimbox 2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Snap.svg.png" alt="Snap.svg">
+                           </td>
+                           <td>
+                              Snap.svg					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Socket.io.png" alt="Socket.io">
+                           </td>
+                           <td>
+                              Socket.io					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SoundManager.png" alt="r">
+                           </td>
+                           <td>
+                              SoundManager					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/strapdown.js.png" alt="Strapdown.js">
+                           </td>
+                           <td>
+                              Strapdown.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SweetAlert.png" alt="t">
+                           </td>
+                           <td>
+                              SweetAlert					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SweetAlert2.png" alt="2">
+                           </td>
+                           <td>
+                              SweetAlert2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TweenMax.png" alt="x">
+                           </td>
+                           <td>
+                              TweenMax					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Twitter Flight.png" alt="t">
+                           </td>
+                           <td>
+                              Twitter Flight					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Twitter typeahead.js.png" alt="Twitter typeahead.js">
+                           </td>
+                           <td>
+                              Twitter typeahead.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Underscore.js.png" alt="Underscore.js">
+                           </td>
+                           <td>
+                              Underscore.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Vue.js.png" alt="Vue.js">
+                           </td>
+                           <td>
+                              Vue.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Webix.png" alt="x">
+                           </td>
+                           <td>
+                              Webix					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Wink.png" alt="k">
+                           </td>
+                           <td>
+                              Wink					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Xajax.png" alt="x">
+                           </td>
+                           <td>
+                              Xajax					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/XRegExp.png" alt="p">
+                           </td>
+                           <td>
+                              XRegExp					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/xui.png" alt="i">
+                           </td>
+                           <td>
+                              xui					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/YUI.png" alt="I">
+                           </td>
+                           <td>
+                              YUI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Zepto.png" alt="o">
+                           </td>
+                           <td>
+                              Zepto					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

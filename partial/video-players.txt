@@ -1,0 +1,60 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/video-players">
+                        Video Players						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Blip.tv.png" alt="Blip.tv">
+                           </td>
+                           <td>
+                              Blip.tv					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MediaElement.js.png" alt="MediaElement.js">
+                           </td>
+                           <td>
+                              MediaElement.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SublimeVideo.png" alt="o">
+                           </td>
+                           <td>
+                              SublimeVideo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/VideoJS.png" alt="S">
+                           </td>
+                           <td>
+                              VideoJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Vimeo.png" alt="o">
+                           </td>
+                           <td>
+                              Vimeo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/YouTube.png" alt="e">
+                           </td>
+                           <td>
+                              YouTube					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

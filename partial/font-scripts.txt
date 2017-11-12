@@ -1,0 +1,69 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/font-scripts">
+                        Font Scripts						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Cufon.png" alt="n">
+                           </td>
+                           <td>
+                              Cufon					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Font Awesome.png" alt="e">
+                           </td>
+                           <td>
+                              Font Awesome					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Glyphicons.png" alt="s">
+                           </td>
+                           <td>
+                              Glyphicons					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Font API.png" alt="I">
+                           </td>
+                           <td>
+                              Google Font API					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ionicons.png" alt="s">
+                           </td>
+                           <td>
+                              Ionicons					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/sIFR.png" alt="R">
+                           </td>
+                           <td>
+                              sIFR					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Typekit.png" alt="t">
+                           </td>
+                           <td>
+                              Typekit					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

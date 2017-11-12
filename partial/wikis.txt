@@ -1,0 +1,114 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/wikis">
+                        Wikis						</a>
+                     </h2>
+                     <table>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/Apache JSPWiki.png" alt="i">
+                        </td>
+                        <td>
+                           Apache JSPWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/Atlassian Confluence.svg" alt="e">
+                        </td>
+                        <td>
+                           Atlassian Confluence					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/DokuWiki.png" alt="i">
+                        </td>
+                        <td>
+                           DokuWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/foswiki.png" alt="i">
+                        </td>
+                        <td>
+                           Foswiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/ikiwiki.png" alt="i">
+                        </td>
+                        <td>
+                           ikiwiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/MediaWiki.png" alt="i">
+                        </td>
+                        <td>
+                           MediaWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/MoinMoin.png" alt="n">
+                        </td>
+                        <td>
+                           MoinMoin					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/TiddlyWiki.png" alt="i">
+                        </td>
+                        <td>
+                           TiddlyWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/Tiki Wiki CMS Groupware.png" alt="e">
+                        </td>
+                        <td>
+                           Tiki Wiki CMS Groupware					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/TWiki.png" alt="i">
+                        </td>
+                        <td>
+                           TWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/Wikispaces.png" alt="s">
+                        </td>
+                        <td>
+                           Wikispaces					
+                        </td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <img class="app-icon" src="content/WikkaWiki.png" alt="i">
+                        </td>
+                        <td>
+                           WikkaWiki					
+                        </td>
+                        <td></td>
+                     </tr>
+					 </table>

@@ -1,0 +1,62 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/comment-systems">
+                        Comment Systems						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Disqus.svg" alt="s">
+                           </td>
+                           <td>
+                              Disqus					
+                           </td>
+                           <td>
+							Disqus là một một dịch vụ blog comment cho các website và chat online, sử dụng 1 nền tảng network. Nền tảng của hệ thống gồm nhiều tính năng khác nhau như tích hợp và mạng lưới mạng xã hội, thông tin người dùng, spam, kiểm duyệt, các công vụ, phân tích, email thông báo và comment trên di động. Nó là 1 dự án statup được xây dựng bởi Daniel Ha và Jason Yan vào 2007.
+							<br>
+							Vào năm 2011, đã có đến 144 triệu lượt truy cập mỗi tháng ở Mỹ.
+							<br>
+							Disqus đã trở thành 1 tính năng cho các tòa soạn nổi tiếng như CNN, The Daily Telegraph và IGN, cùng khoảng 750000 blogs và websites
+						   </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/IntenseDebate.png" alt="e">
+                           </td>
+                           <td>
+                              		
+<a href="https://intensedebate.com/" target="_blank">IntenseDebate</a>							  
+                           </td>
+                           <td>
+							1 plug-in với nhiều tính năng có thể tích hợp vào bất kỳ website nào, đặc biệt là: Wordpress, Blogger, Thumblr, TypePad
+						   </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Livefyre.png" alt="e">
+                           </td>
+                           <td>
+                              Livefyre					
+                           </td>
+                           <td>
+							Hàng của Adobe
+							<br>
+							Về cơ bản nó khá giống Disqus
+							<br>
+							Xem chi tiết ở đây: 	http://www.trannguyenqb.com/2012/09/livefyre-cho-blogger_12.html
+						   </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/question2answer.png" alt="r">
+                           </td>
+                           <td>
+							<a href="http://www.question2answer.org/" target="_blank">Question2Answer</a>
+                           </td>
+                           <td>
+						   <b>1 bộ QA và comment</b>
+						   <br>
+						   1 plug-in gọn nhẹ, tích hợp nhanh trong 5 phút.
+						   Xem demo: http://www.question2answer.org/qa/
+						   </td>
+                        </tr>
+                     </table>

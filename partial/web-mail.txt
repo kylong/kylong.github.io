@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/web-mail">
+                        Web Mail						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Outlook Web App.png" alt="p">
+                           </td>
+                           <td>
+                              Outlook Web App					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RainLoop.png" alt="p">
+                           </td>
+                           <td>
+                              RainLoop					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RoundCube.png" alt="e">
+                           </td>
+                           <td>
+                              RoundCube					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SquirrelMail.png" alt="l">
+                           </td>
+                           <td>
+                              SquirrelMail					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

@@ -1,0 +1,150 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/operating-systems">
+                        Operating Systems						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CentOS.png" alt="S">
+                           </td>
+                           <td>
+                              CentOS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Darwin.png" alt="n">
+                           </td>
+                           <td>
+                              Darwin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Debian.png" alt="n">
+                           </td>
+                           <td>
+                              Debian					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Fedora.png" alt="a">
+                           </td>
+                           <td>
+                              Fedora					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FreeBSD.png" alt="D">
+                           </td>
+                           <td>
+                              FreeBSD					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Gentoo.png" alt="o">
+                           </td>
+                           <td>
+                              Gentoo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/M.R. Inc.png" alt="M.R. Inc BoxyOS">
+                           </td>
+                           <td>
+                              M.R. Inc BoxyOS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Raspbian.svg" alt="n">
+                           </td>
+                           <td>
+                              Raspbian					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Red Hat.png" alt="t">
+                           </td>
+                           <td>
+                              Red Hat					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Scientific Linux.png" alt="x">
+                           </td>
+                           <td>
+                              Scientific Linux					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="S">
+                           </td>
+                           <td>
+                              SunOS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SUSE.png" alt="E">
+                           </td>
+                           <td>
+                              SUSE					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ubuntu.png" alt="u">
+                           </td>
+                           <td>
+                              Ubuntu					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/UNIX.png" alt="X">
+                           </td>
+                           <td>
+                              UNIX					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Microsoft.svg" alt="E">
+                           </td>
+                           <td>
+                              Windows CE					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Microsoft.svg" alt="r">
+                           </td>
+                           <td>
+                              Windows Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

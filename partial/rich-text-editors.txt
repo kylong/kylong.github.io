@@ -1,0 +1,60 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/rich-text-editors">
+                        Rich Text Editors						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CKEditor.png" alt="r">
+                           </td>
+                           <td>
+                              CKEditor					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/etherpad.png" alt="d">
+                           </td>
+                           <td>
+                              Etherpad					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FreeTextBox.png" alt="x">
+                           </td>
+                           <td>
+                              FreeTextBox					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Froala.svg" alt="r">
+                           </td>
+                           <td>
+                              Froala Editor					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Quill.png" alt="l">
+                           </td>
+                           <td>
+                              Quill					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TinyMCE.png" alt="E">
+                           </td>
+                           <td>
+                              TinyMCE					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

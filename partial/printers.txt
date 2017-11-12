@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/printers">
+                        Printers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Brother.png" alt="r">
+                           </td>
+                           <td>
+                              Brother					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Canon.png" alt="n">
+                           </td>
+                           <td>
+                              Canon					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Dell.png" alt="l">
+                           </td>
+                           <td>
+                              Dell					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="P">
+                           </td>
+                           <td>
+                              HP					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

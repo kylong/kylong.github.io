@@ -1,0 +1,60 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/maps">
+                        Maps						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/arcgis_icon.png" alt="t">
+                           </td>
+                           <td>
+                              ArcGIS API for JavaScript					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Maps.png" alt="s">
+                           </td>
+                           <td>
+                              Google Maps					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HERE.png" alt="E">
+                           </td>
+                           <td>
+                              HERE					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Leaflet.png" alt="t">
+                           </td>
+                           <td>
+                              Leaflet					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OpenLayers.png" alt="s">
+                           </td>
+                           <td>
+                              OpenLayers					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Ushahidi.png" alt="i">
+                           </td>
+                           <td>
+                              Ushahidi					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

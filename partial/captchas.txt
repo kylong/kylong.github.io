@@ -1,0 +1,57 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/captchas">
+                        Captchas						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Captch Me.svg" alt="e">
+                           </td>
+                           <td>
+                             <a href="http://www.captchme.com/">Captch Me</a>
+                              					
+                           </td>
+                           <td>
+                           	Một kiểu captcha giống mở khóa Iphone 3
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mollom.png" alt="m">
+                           </td>
+                           <td>
+                              Mollom					
+                           </td>
+                           <td>
+							Mollom sử dụng Machine learning để phân tích nội dung có tính chất spam hay không từ đó cho phép chặn nội dung hoặc bài viết không phù hợp.
+							<br>
+							Tuy nhiên Mollom sẽ không còn support từ 02/2018
+						   </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/reCAPTCHA.png" alt="A">
+                           </td>
+                           <td>
+                              reCAPTCHA					
+                           </td>
+                           <td>
+						   <b>captcha của Google</b>
+						   <br>
+						   reCAPTCHA là một dịch vụ CAPTCHA miễn phí giúp website của bạn chống lại SPAM, các đăng ký độc hại, hoặc các hình thức tấn công khác, nơi mà các chương trình tấn công cố gắng che giấu bản thân tạo ra các hành vi giống con người.
+						   </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Solve Media.png" alt="a">
+                           </td>
+                           <td>
+							<a href="http://solvemedia.com/advertisers/captcha-type-in">
+                              Solve Media
+							</a>
+                           </td>
+                           <td>
+							Giống như các captcha truyền thống khác nhưng nội dung phong phú hơn, sử dụng hình ảnh hoặc câu hỏi.
+						   </td>
+                        </tr>
+                     </table>

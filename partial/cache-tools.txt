@@ -1,0 +1,100 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/cache-tools">
+                        Cache Tools						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google PageSpeed.png" alt="d">
+                           </td>
+                           <td>
+                              Google PageSpeed					
+                           </td>
+                           <td>
+                           	Google Page Speed là một công cụ của Google giúp bạn đánh giá điểm chất lượng của Website bằng những tiêu chuẩn đánh giá chất lượng của Google. 
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="e">
+                           </td>
+                           <td>
+                             <a href="http://www.oracle.com/technetwork/middleware/ias/webcache11goverview-128137.pdf">Oracle Web Cache</a>
+                              				
+                           </td>
+                           <td>
+                           	là một công cụ trung gian giữa client và server cho phép cache các nội dung truy cập thường xuyên, các kiểu caching: tĩnh, động, 1 phần, phân lọc theo request
+                           	
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RackCache.png" alt="e">
+                           </td>
+                           <td>
+                              RackCache					
+                           </td>
+                           <td>
+                           	Rack::Cache is suitable as a quick drop-in component to enable HTTP caching
+                           	<br>
+                           	Apply for Rails and Dalli
+                           	/
+                           	<a href="https://github.com/rtomayko/rack-cache">Github and Usage</a>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Varnish.svg" alt="h">
+                           </td>
+                           <td> 	
+                              <a href="https://varnish-cache.org/">Varnish</a>				
+                           </td>
+                           <td>
+                           	Varnish là một ứng dụng mã nguồn mở (Open source) có tác dụng lưu lại bộ nhớ đệm của website bằng phương thức làm proxy trung gian giữa nội dung website gốc và trình duyệt, và Varnish sẽ tạo một bản cache ngoài frontend.
+                           	<br>
+                           	Hiện nay những website đang sử dụng Varnish mà bạn có thể kiểm chứng như <b>The New York Times, Facebook, Twitter, Wikipedia,…</b>.và hầu hết hiện nay các website lớn với nhiều nội dung như vậy đang sử dụng Varnish để tối ưu hơn về tốc độ website cũng như tiết kiệm tài nguyên.
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/W3 Total Cache.png" alt="e">
+                           </td>
+                           <td>
+                              W3 Total Cache					
+                           </td>
+                           <td>
+                           	W3 Total Cache là một plugin dành cho Wordpress hỗ trợ tăng tốc (tạo bộ nhớ đệm) rất tốt và chuyên nghiệp nhất hiện nay mà lại hoàn toàn miễn phí, tuy cách sử dụng và cài đặt có thể hơi khó.
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/wp_super_cache.png" alt="e">
+                           </td>
+                           <td>
+                              WordPress Super Cache					
+                           </td>
+                           <td>
+                           	WP Super Cache là một trong những plugin miễn phí tốt nhất để hỗ trợ tăng tốc website WordPress bằng công nghệ tạo bộ nhớ đệm (cache) dành cho các website nhỏ và vừa, mà cụ thể là sử dụng phương thức HTML Cache. Sở dĩ nó được xếp vào danh sách plugin tốt nhất không chỉ vì hiệu suất sử dụng mà nó còn có cách sử dụng rất dễ, phù hợp với những người mới tiếp xúc với WordPress.
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/WP Rocket.png" alt="t">
+                           </td>
+                           <td>
+                              WP Rocket					
+                           </td>
+                           <td>
+                           	Theo đánh giá của cộng đồng blogger trên thế giới thì đây là một plugin tăng tốc WordPress tốt nhất với những lý do sau. Tích hợp lazyload, tối ưu HTML, CSS, JS cũng như kết hợp với dịch vụ của CloudFlare, hỗ trợ CDN (từ MaxCDN)…
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/wpCache.png" alt="e">
+                           </td>
+                           <td>
+                              wpCache					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

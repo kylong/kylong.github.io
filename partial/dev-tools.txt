@@ -1,0 +1,177 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/dev-tools">
+                        Dev Tools						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Artifactory.svg" alt="y">
+                           </td>
+                           <td>
+                              Artifactory					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Atlassian Bitbucket.svg" alt="t">
+                           </td>
+                           <td>
+                              Atlassian Bitbucket					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Atlassian FishEye.svg" alt="e">
+                           </td>
+                           <td>
+                              Atlassian FishEye					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Atlassian Jira.svg" alt="r">
+                           </td>
+                           <td>
+                              Atlassian Jira Issue Collector					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/enduro.js.svg" alt="enduro.js">
+                           </td>
+                           <td>
+                              enduro.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/gerrit.svg" alt="t">
+                           </td>
+                           <td>
+                              Gerrit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/git.png" alt="t">
+                           </td>
+                           <td>
+                              git					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="s">
+                           </td>
+                           <td>
+                              Gitiles					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/GitLab.svg" alt="b">
+                           </td>
+                           <td>
+                              GitLab					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/GitLab CI.png" alt="I">
+                           </td>
+                           <td>
+                              GitLab CI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="t">
+                           </td>
+                           <td>
+                              gitlist					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="P">
+                           </td>
+                           <td>
+                              GitPHP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/git.png" alt="b">
+                           </td>
+                           <td>
+                              gitweb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/gogs.png" alt="s">
+                           </td>
+                           <td>
+                              Gogs					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JahiaDX.svg" alt="X">
+                           </td>
+                           <td>
+                              Jahia DX					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phabricator.png" alt="r">
+                           </td>
+                           <td>
+                              Phabricator					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/phpdebugbar.png" alt="r">
+                           </td>
+                           <td>
+                              PHPDebugBar					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/sonar.png" alt="s">
+                           </td>
+                           <td>
+                              SonarQubes					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Stamplay.png" alt="y">
+                           </td>
+                           <td>
+                              Stamplay					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

@@ -1,0 +1,15 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/paywalls">
+                        Paywalls						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Piano Solo.png" alt="o">
+                           </td>
+                           <td>
+                              Piano Solo					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

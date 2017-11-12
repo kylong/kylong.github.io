@@ -1,0 +1,15 @@
+﻿        <h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/feed-readers">
+                        Feed Readers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Planet.png" alt="t">
+                           </td>
+                           <td>
+                              Planet					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

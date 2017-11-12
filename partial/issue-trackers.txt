@@ -1,0 +1,177 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/issue-trackers">
+                        Issue Trackers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Atlassian Jira.svg" alt="a">
+                           </td>
+                           <td>
+                              Atlassian Jira					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Atlassian Jira.svg" alt="r">
+                           </td>
+                           <td>
+                              Atlassian Jira Issue Collector					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Bugzilla.png" alt="a">
+                           </td>
+                           <td>
+                              Bugzilla					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Flyspray.png" alt="y">
+                           </td>
+                           <td>
+                              Flyspray					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Get Satisfaction.png" alt="n">
+                           </td>
+                           <td>
+                              Get Satisfaction					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/GitLab.svg" alt="b">
+                           </td>
+                           <td>
+                              GitLab					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Kampyle.png" alt="e">
+                           </td>
+                           <td>
+                              Kampyle					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MantisBT.png" alt="T">
+                           </td>
+                           <td>
+                              MantisBT					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/osTicket.png" alt="t">
+                           </td>
+                           <td>
+                              osTicket					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/otrs.png" alt="s">
+                           </td>
+                           <td>
+                              otrs					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phabricator.png" alt="r">
+                           </td>
+                           <td>
+                              Phabricator					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Redmine.png" alt="e">
+                           </td>
+                           <td>
+                              Redmine					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Taiga.png" alt="a">
+                           </td>
+                           <td>
+                              Taiga					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Tiki Wiki CMS Groupware.png" alt="e">
+                           </td>
+                           <td>
+                              Tiki Wiki CMS Groupware					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Trac.png" alt="c">
+                           </td>
+                           <td>
+                              Trac					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Usabilla.svg" alt="a">
+                           </td>
+                           <td>
+                              Usabilla					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/UserRules.png" alt="s">
+                           </td>
+                           <td>
+                              UserRules					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/UserVoice.png" alt="e">
+                           </td>
+                           <td>
+                              UserVoice					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/YouTrack.png" alt="k">
+                           </td>
+                           <td>
+                              YouTrack					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

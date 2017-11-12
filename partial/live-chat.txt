@@ -1,0 +1,106 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/live-chat">
+                        Live Chat						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/aircall.png" alt="l">
+                           </td>
+                           <td>
+                              Aircall					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/BoldChat.png" alt="t">
+                           </td>
+                           <td>
+                              Bold Chat					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LiveAgent.png" alt="t">
+                           </td>
+                           <td>
+                              LiveAgent					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LiveChat.png" alt="t">
+                           </td>
+                           <td>
+                              LiveChat					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LiveHelp.png" alt="p">
+                           </td>
+                           <td>
+                              LiveHelp					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LivePerson.png" alt="n">
+                           </td>
+                           <td>
+                              LivePerson					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Olark.png" alt="k">
+                           </td>
+                           <td>
+                              Olark					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/raychat.svg" alt="t">
+                           </td>
+                           <td>
+                              Raychat					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TawkTo.png" alt="Tawk.to">
+                           </td>
+                           <td>
+                              Tawk.to					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/UserLike.svg" alt="e">
+                           </td>
+                           <td>
+                              UserLike					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Zendesk Chat.png" alt="t">
+                           </td>
+                           <td>
+                              Zendesk Chat					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

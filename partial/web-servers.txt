@@ -1,0 +1,1014 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/web-servers">
+                        Web Servers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/3ware.png" alt="e">
+                           </td>
+                           <td>
+                              3ware					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/actionhero.js.png" alt="actionhero.js">
+                           </td>
+                           <td>
+                              actionhero.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/akka-http.png" alt="P">
+                           </td>
+                           <td>
+                              Akka HTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Allegro RomPager.png" alt="r">
+                           </td>
+                           <td>
+                              Allegro RomPager					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/aws-ec2.svg" alt="2">
+                           </td>
+                           <td>
+                              Amazon EC2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AOLserver.png" alt="r">
+                           </td>
+                           <td>
+                              AOLserver					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache.svg" alt="e">
+                           </td>
+                           <td>
+                              Apache					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache Tomcat.svg" alt="t">
+                           </td>
+                           <td>
+                              Apache Tomcat					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache Traffic Server.png" alt="r">
+                           </td>
+                           <td>
+                              Apache Traffic Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Artifactory.svg" alt="r">
+                           </td>
+                           <td>
+                              Artifactory Web Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ATEN.png" alt="N">
+                           </td>
+                           <td>
+                              ATEN					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/BaseHTTP.png" alt="P">
+                           </td>
+                           <td>
+                              BaseHTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="a">
+                           </td>
+                           <td>
+                              Boa					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/bubble.png" alt="e">
+                           </td>
+                           <td>
+                              Bubble					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/caddy.svg" alt="y">
+                           </td>
+                           <td>
+                              Caddy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Canon.png" alt="r">
+                           </td>
+                           <td>
+                              Canon HTTP Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Catwalk.png" alt="k">
+                           </td>
+                           <td>
+                              Catwalk					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CenteHTTPd.png" alt="d">
+                           </td>
+                           <td>
+                              CenteHTTPd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Cherokee.png" alt="e">
+                           </td>
+                           <td>
+                              Cherokee					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CherryPy.png" alt="y">
+                           </td>
+                           <td>
+                              CherryPy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="r">
+                           </td>
+                           <td>
+                              CompaqHTTPServer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CouchDB.png" alt="B">
+                           </td>
+                           <td>
+                              CouchDB					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Cowboy.png" alt="y">
+                           </td>
+                           <td>
+                              Cowboy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/David Webbox.png" alt="x">
+                           </td>
+                           <td>
+                              David Webbox					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/debut.png" alt="t">
+                           </td>
+                           <td>
+                              debut					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="m">
+                           </td>
+                           <td>
+                              Decorum					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="d">
+                           </td>
+                           <td>
+                              dwhttpd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/eDevice SmartStack.png" alt="k">
+                           </td>
+                           <td>
+                              eDevice SmartStack					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="P">
+                           </td>
+                           <td>
+                              eHTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ELOG.png" alt="P">
+                           </td>
+                           <td>
+                              ELOG HTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Embedthis.png" alt="b">
+                           </td>
+                           <td>
+                              EmbedThis Appweb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Embedthis.png" alt="Embedthis-http">
+                           </td>
+                           <td>
+                              Embedthis-http					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ESERV-10.png" alt="ESERV-10">
+                           </td>
+                           <td>
+                              ESERV-10					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/EWS-NIC4.png" alt="EWS-NIC4">
+                           </td>
+                           <td>
+                              EWS-NIC4					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Express.png" alt="s">
+                           </td>
+                           <td>
+                              Express					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="m">
+                           </td>
+                           <td>
+                              FlashCom					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Flask.png" alt="k">
+                           </td>
+                           <td>
+                              Flask					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/G-WAN.png" alt="G-WAN">
+                           </td>
+                           <td>
+                              G-WAN					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/GlassFish.png" alt="h">
+                           </td>
+                           <td>
+                              GlassFish					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/GoAhead.png" alt="d">
+                           </td>
+                           <td>
+                              GoAhead					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google App Engine.png" alt="e">
+                           </td>
+                           <td>
+                              Google App Engine					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Search Appliance.png" alt="e">
+                           </td>
+                           <td>
+                              Google Search Appliance					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google.svg" alt="r">
+                           </td>
+                           <td>
+                              Google Web Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Grandstream.png" alt="m">
+                           </td>
+                           <td>
+                              Grandstream					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/gunicorn.png" alt="n">
+                           </td>
+                           <td>
+                              gunicorn					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/hapi.js.png" alt="hapi.js">
+                           </td>
+                           <td>
+                              hapi.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="r">
+                           </td>
+                           <td>
+                              Happy ICS Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HHVM.png" alt="M">
+                           </td>
+                           <td>
+                              HHVM					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Hiawatha.png" alt="a">
+                           </td>
+                           <td>
+                              Hiawatha					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="r">
+                           </td>
+                           <td>
+                              HP ChaiServer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="r">
+                           </td>
+                           <td>
+                              HP Compact Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="O">
+                           </td>
+                           <td>
+                              HP iLO					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="t">
+                           </td>
+                           <td>
+                              HTTP Kit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="HTTP-Server">
+                           </td>
+                           <td>
+                              HTTP-Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/IBM.svg" alt="r">
+                           </td>
+                           <td>
+                              IBM HTTP Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/IBM.svg" alt="r">
+                           </td>
+                           <td>
+                              IBM Tivoli Storage Manager					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/IIS.png" alt="S">
+                           </td>
+                           <td>
+                              IIS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="y">
+                           </td>
+                           <td>
+                              Indy					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Intel Active Management Technology.png" alt="y">
+                           </td>
+                           <td>
+                              Intel Active Management Technology					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JBoss Application Server.png" alt="r">
+                           </td>
+                           <td>
+                              JBoss Application Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JBoss Web.png" alt="b">
+                           </td>
+                           <td>
+                              JBoss Web					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JC-HTTPD.png" alt="JC-HTTPD">
+                           </td>
+                           <td>
+                              JC-HTTPD					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Jetty.png" alt="y">
+                           </td>
+                           <td>
+                              Jetty					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/kemalcr.png" alt="l">
+                           </td>
+                           <td>
+                              Kemal					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Koa.png" alt="a">
+                           </td>
+                           <td>
+                              Koa					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/KS_HTTP.png" alt="P">
+                           </td>
+                           <td>
+                              KS_HTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LabVIEW.png" alt="W">
+                           </td>
+                           <td>
+                              LabVIEW					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/libwww-perl-daemon.png" alt="libwww-perl-daemon">
+                           </td>
+                           <td>
+                              libwww-perl-daemon					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/lighttpd.png" alt="d">
+                           </td>
+                           <td>
+                              lighttpd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LiteSpeed.png" alt="d">
+                           </td>
+                           <td>
+                              LiteSpeed					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Logitech Media Server.png" alt="r">
+                           </td>
+                           <td>
+                              Logitech Media Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lotus Domino.png" alt="o">
+                           </td>
+                           <td>
+                              Lotus Domino					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/M.R. Inc.png" alt="M.R. Inc Webserver">
+                           </td>
+                           <td>
+                              M.R. Inc Webserver					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Microsoft.svg" alt="I">
+                           </td>
+                           <td>
+                              Microsoft HTTPAPI					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="v">
+                           </td>
+                           <td>
+                              MiniServ					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mini_httpd.png" alt="d">
+                           </td>
+                           <td>
+                              mini_httpd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="b">
+                           </td>
+                           <td>
+                              MochiWeb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mongrel.png" alt="l">
+                           </td>
+                           <td>
+                              Mongrel					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Monkey HTTP Server.png" alt="r">
+                           </td>
+                           <td>
+                              Monkey HTTP Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="Motion-httpd">
+                           </td>
+                           <td>
+                              Motion-httpd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Netlify.svg" alt="y">
+                           </td>
+                           <td>
+                              Netlify					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/zeit.svg" alt="Next.js">
+                           </td>
+                           <td>
+                              Next.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Nginx.svg" alt="x">
+                           </td>
+                           <td>
+                              Nginx					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/zeit.svg" alt="w">
+                           </td>
+                           <td>
+                              Now					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google.svg" alt="E">
+                           </td>
+                           <td>
+                              OpenGSE					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OpenResty.png" alt="y">
+                           </td>
+                           <td>
+                              OpenResty					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="r">
+                           </td>
+                           <td>
+                              Oracle Application Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="r">
+                           </td>
+                           <td>
+                              Oracle HTTP Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phusion Passenger.png" alt="r">
+                           </td>
+                           <td>
+                              Phusion Passenger					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="r">
+                           </td>
+                           <td>
+                              RAID HTTPServer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="c">
+                           </td>
+                           <td>
+                              Rapid Logic					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Resin.png" alt="n">
+                           </td>
+                           <td>
+                              Resin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SAP.png" alt="P">
+                           </td>
+                           <td>
+                              SAP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Schneider.png" alt="r">
+                           </td>
+                           <td>
+                              Schneider Web Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sentinel.png" alt="r">
+                           </td>
+                           <td>
+                              Sentinel Keys Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sentinel.png" alt="r">
+                           </td>
+                           <td>
+                              Sentinel Protection Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="P">
+                           </td>
+                           <td>
+                              SimpleHTTP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Snap.png" alt="p">
+                           </td>
+                           <td>
+                              Snap					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Splunk.png" alt="d">
+                           </td>
+                           <td>
+                              Splunkd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Starlet.png" alt="t">
+                           </td>
+                           <td>
+                              Starlet					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Tengine.png" alt="e">
+                           </td>
+                           <td>
+                              Tengine					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/thttpd.png" alt="d">
+                           </td>
+                           <td>
+                              thttpd					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TornadoServer.png" alt="r">
+                           </td>
+                           <td>
+                              TornadoServer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/TwistedWeb.png" alt="b">
+                           </td>
+                           <td>
+                              TwistedWeb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="b">
+                           </td>
+                           <td>
+                              Virata EmWeb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Warp.png" alt="p">
+                           </td>
+                           <td>
+                              Warp					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="r">
+                           </td>
+                           <td>
+                              Winstone Servlet Container					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/XAMPP.png" alt="P">
+                           </td>
+                           <td>
+                              XAMPP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Xitami.png" alt="i">
+                           </td>
+                           <td>
+                              Xitami					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Yaws.png" alt="s">
+                           </td>
+                           <td>
+                              Yaws					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Zend.png" alt="d">
+                           </td>
+                           <td>
+                              Zend					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Zope.png" alt="e">
+                           </td>
+                           <td>
+                              Zope					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

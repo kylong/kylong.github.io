@@ -1,0 +1,322 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/miscellaneous">
+                        Miscellaneous						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/3DM.png" alt="M">
+                           </td>
+                           <td>
+                              3DM					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/aws-s3.svg" alt="3">
+                           </td>
+                           <td>
+                              Amazon S3					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/cgit.png" alt="t">
+                           </td>
+                           <td>
+                              cgit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Clipboard.js.svg" alt="Clipboard.js">
+                           </td>
+                           <td>
+                              Clipboard.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CodeMirror.png" alt="r">
+                           </td>
+                           <td>
+                              CodeMirror					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ELOG.png" alt="G">
+                           </td>
+                           <td>
+                              ELOG					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/EPrints.png" alt="s">
+                           </td>
+                           <td>
+                              EPrints					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google.svg" alt="y">
+                           </td>
+                           <td>
+                              Google Code Prettify					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Gravatar.png" alt="r">
+                           </td>
+                           <td>
+                              Gravatar					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/gravityforms.svg" alt="s">
+                           </td>
+                           <td>
+                              Gravity Forms					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Highlight.js.png" alt="Highlight.js">
+                           </td>
+                           <td>
+                              Highlight.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/http2.png" alt="HTTP/2">
+                           </td>
+                           <td>
+                              HTTP/2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Jive.png" alt="e">
+                           </td>
+                           <td>
+                              Jive					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JobberBase.png" alt="e">
+                           </td>
+                           <td>
+                              JobberBase					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/K2.png" alt="2">
+                           </td>
+                           <td>
+                              K2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Less.png" alt="s">
+                           </td>
+                           <td>
+                              Less					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LimeSurvey.png" alt="y">
+                           </td>
+                           <td>
+                              LimeSurvey					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/NOIX.png" alt="X">
+                           </td>
+                           <td>
+                              NOIX					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OmniTouch 8660 My Teamwork.png" alt="k">
+                           </td>
+                           <td>
+                              OmniTouch 8660 My Teamwork					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OpenGrok.png" alt="k">
+                           </td>
+                           <td>
+                              OpenGrok					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="e">
+                           </td>
+                           <td>
+                              Oracle Dynamic Monitoring Service					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ownCloud.png" alt="d">
+                           </td>
+                           <td>
+                              ownCloud					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/PDF.js.svg" alt="PDF.js">
+                           </td>
+                           <td>
+                              PDF.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/PerfSONAR-PS.png" alt="PerfSONAR-PS">
+                           </td>
+                           <td>
+                              PerfSONAR-PS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Plura.png" alt="a">
+                           </td>
+                           <td>
+                              Plura					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Prefix-Free.png" alt="Prefix-Free">
+                           </td>
+                           <td>
+                              Prefix-Free					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/pygments.png" alt="s">
+                           </td>
+                           <td>
+                              Pygments					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sentinel.png" alt="r">
+                           </td>
+                           <td>
+                              Sentinel License Monitor					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SOBI 2.png" alt="2">
+                           </td>
+                           <td>
+                              SOBI 2					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SobiPro.png" alt="o">
+                           </td>
+                           <td>
+                              SobiPro					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SPDY.png" alt="Y">
+                           </td>
+                           <td>
+                              SPDY					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Splunk.png" alt="k">
+                           </td>
+                           <td>
+                              Splunk					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SWFObject.png" alt="t">
+                           </td>
+                           <td>
+                              SWFObject					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SyntaxHighlighter.png" alt="r">
+                           </td>
+                           <td>
+                              SyntaxHighlighter					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Zabbix.png" alt="x">
+                           </td>
+                           <td>
+                              Zabbix					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

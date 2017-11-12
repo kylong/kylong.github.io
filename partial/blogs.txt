@@ -1,0 +1,213 @@
+﻿<h2>
+<a target="_blank"  href="https://wappalyzer.com/categories/blogs">
+Blogs						</a>
+</h2>
+<table>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Aegea.png" alt="a">
+   </td>
+   <td>
+	  Aegea					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Blogger.png" alt="r">
+   </td>
+   <td>
+	  Blogger					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/ContentBox.png" alt="x">
+   </td>
+   <td>
+	  ContentBox					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Ghost.png" alt="t">
+   </td>
+   <td>
+	  Ghost					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Hugo.png" alt="o">
+   </td>
+   <td>
+	  Hugo					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Jekyll.png" alt="l">
+   </td>
+   <td>
+	  Jekyll					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/LiveJournal.png" alt="l">
+   </td>
+   <td>
+	  LiveJournal					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Mura CMS.png" alt="S">
+   </td>
+   <td>
+	  Mura CMS					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/octopress.png" alt="s">
+   </td>
+   <td>
+	  Octopress					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Ophal.png" alt="l">
+   </td>
+   <td>
+	  Ophal					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/PencilBlue.png" alt="e">
+   </td>
+   <td>
+	  PencilBlue					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Phenomic.svg" alt="c">
+   </td>
+   <td>
+	  Phenomic					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Posterous.png" alt="s">
+   </td>
+   <td>
+	  Posterous					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Roadiz CMS.png" alt="S">
+   </td>
+   <td>
+	  Roadiz CMS					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/RockRMS.svg" alt="S">
+   </td>
+   <td>
+	  RockRMS					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Serendipity.png" alt="y">
+   </td>
+   <td>
+	  Serendipity					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Tiki Wiki CMS Groupware.png" alt="e">
+   </td>
+   <td>
+	  Tiki Wiki CMS Groupware					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Tumblr.png" alt="r">
+   </td>
+   <td>
+	  Tumblr					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/typecho.svg" alt="o">
+   </td>
+   <td>
+	  Typecho					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/TypePad.png" alt="d">
+   </td>
+   <td>
+	  TypePad					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Vox.png" alt="x">
+   </td>
+   <td>
+	  Vox					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/WordPress.svg" alt="s">
+   </td>
+   <td>
+	  WordPress					
+   </td>
+   <td></td>
+</tr>
+<tr>
+   <td>
+	  <img class="app-icon" src="content/Zinnia.png" alt="a">
+   </td>
+   <td>
+	  Zinnia					
+   </td>
+   <td></td>
+</tr>
+</table>

@@ -1,0 +1,24 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/network-devices">
+                        Network Devices						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="e">
+                           </td>
+                           <td>
+                              HP ProCurve					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Moxa.png" alt="a">
+                           </td>
+                           <td>
+                              Moxa					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

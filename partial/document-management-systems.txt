@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/document-management-systems">
+                        Document Management Systems						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Invenio.png" alt="o">
+                           </td>
+                           <td>
+                              Invenio					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mhonarc.png" alt="c">
+                           </td>
+                           <td>
+                              MHonArc					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Open Journal Systems.png" alt="s">
+                           </td>
+                           <td>
+                              Open Journal Systems					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/uKnowva.png" alt="a">
+                           </td>
+                           <td>
+                              uKnowva					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

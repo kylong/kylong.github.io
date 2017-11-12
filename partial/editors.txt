@@ -1,0 +1,96 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/editors">
+                        Editors						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Adobe GoLive.png" alt="e">
+                           </td>
+                           <td>
+                              Adobe GoLive					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Adobe Muse.svg" alt="e">
+                           </td>
+                           <td>
+                              Adobe Muse					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Amaya.png" alt="a">
+                           </td>
+                           <td>
+                              Amaya					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/AsciiDoc.png" alt="c">
+                           </td>
+                           <td>
+                              AsciiDoc					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Bluefish.png" alt="h">
+                           </td>
+                           <td>
+                              Bluefish					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/DreamWeaver.png" alt="r">
+                           </td>
+                           <td>
+                              DreamWeaver					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FrontPage.png" alt="e">
+                           </td>
+                           <td>
+                              FrontPage					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/iWeb.png" alt="b">
+                           </td>
+                           <td>
+                              iWeb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Unbounce.png" alt="e">
+                           </td>
+                           <td>
+                              Unbounce					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/WebSite X5.png" alt="5">
+                           </td>
+                           <td>
+                              WebSite X5					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

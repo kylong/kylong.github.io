@@ -1,0 +1,249 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/javascript-graphics">
+                        JavaScript Graphics						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/amCharts.png" alt="s">
+                           </td>
+                           <td>
+                              amCharts					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Chart.js.svg" alt="Chart.js">
+                           </td>
+                           <td>
+                              Chart.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/D3.png" alt="3">
+                           </td>
+                           <td>
+                              D3					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="h">
+                           </td>
+                           <td>
+                              Epoch					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Exhibit.png" alt="t">
+                           </td>
+                           <td>
+                              Exhibit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Charts.png" alt="s">
+                           </td>
+                           <td>
+                              Google Charts					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Highcharts.png" alt="s">
+                           </td>
+                           <td>
+                              Highcharts					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Highcharts.png" alt="k">
+                           </td>
+                           <td>
+                              Highstock					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JavaScript Infovis Toolkit.png" alt="t">
+                           </td>
+                           <td>
+                              JavaScript Infovis Toolkit					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/jqPlot.png" alt="t">
+                           </td>
+                           <td>
+                              jqPlot					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="s">
+                           </td>
+                           <td>
+                              jQuery Sparklines					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JS Charts.png" alt="s">
+                           </td>
+                           <td>
+                              JS Charts					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/kibana.svg" alt="a">
+                           </td>
+                           <td>
+                              Kibana					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/KineticJS.png" alt="S">
+                           </td>
+                           <td>
+                              KineticJS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MathJax.png" alt="x">
+                           </td>
+                           <td>
+                              MathJax					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/NVD3.png" alt="3">
+                           </td>
+                           <td>
+                              NVD3					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="Paths.js">
+                           </td>
+                           <td>
+                              Paths.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Plotly.png" alt="y">
+                           </td>
+                           <td>
+                              Plotly					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="s">
+                           </td>
+                           <td>
+                              Protovis					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Raphael.png" alt="l">
+                           </td>
+                           <td>
+                              Raphael					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="w">
+                           </td>
+                           <td>
+                              Rickshaw					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="shine.js">
+                           </td>
+                           <td>
+                              shine.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Supersized.png" alt="d">
+                           </td>
+                           <td>
+                              Supersized					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/three.js.png" alt="three.js">
+                           </td>
+                           <td>
+                              three.js					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Timeplot.png" alt="t">
+                           </td>
+                           <td>
+                              Timeplot					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="Twitter Emoji (Twemoji)">
+                           </td>
+                           <td>
+                              Twitter Emoji (Twemoji)					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="s">
+                           </td>
+                           <td>
+                              xCharts					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

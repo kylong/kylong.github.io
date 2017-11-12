@@ -1,0 +1,43 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/remote-access">
+                        Remote Access						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="O">
+                           </td>
+                           <td>
+                              HP iLO					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HP.svg" alt="t">
+                           </td>
+                           <td>
+                              HP System Management					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Intel Active Management Technology.png" alt="y">
+                           </td>
+                           <td>
+                              Intel Active Management Technology					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ShellInABox.png" alt="x">
+                           </td>
+                           <td>
+                              ShellInABox					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
+                     

@@ -1,0 +1,15 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/tag-managers">
+                        Tag Managers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Tag Manager.png" alt="r">
+                           </td>
+                           <td>
+                              Google Tag Manager					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

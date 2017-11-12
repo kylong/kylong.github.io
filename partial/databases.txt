@@ -1,0 +1,115 @@
+﻿               
+                     <h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/databases">
+                        Databases						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache Hadoop.svg" alt="p">
+                           </td>
+                           <td>
+                              Apache Hadoop					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache HBase.png" alt="e">
+                           </td>
+                           <td>
+                              Apache HBase					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Cloudera.png" alt="a">
+                           </td>
+                           <td>
+                              Cloudera					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Firebase.png" alt="e">
+                           </td>
+                           <td>
+                              Firebase					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Lucene.png" alt="e">
+                           </td>
+                           <td>
+                              Lucene					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MongoDB.png" alt="B">
+                           </td>
+                           <td>
+                              MongoDB					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MySQL.svg" alt="L">
+                           </td>
+                           <td>
+                              MySQL					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/PostgreSQL.png" alt="L">
+                           </td>
+                           <td>
+                              PostgreSQL					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Solr.png" alt="r">
+                           </td>
+                           <td>
+                              Solr					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SQLite.png" alt="e">
+                           </td>
+                           <td>
+                              SQLite					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Stamplay.png" alt="y">
+                           </td>
+                           <td>
+                              Stamplay					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="o">
+                           </td>
+                           <td>
+                              Virtuoso					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

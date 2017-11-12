@@ -1,0 +1,64 @@
+﻿<h2>
+	<a target="_blank"  href="https://wappalyzer.com/categories/build-ci-systems">
+	Build CI Systems						</a>
+ </h2>
+ <div>
+	<b>CI – CONTINUOUS INTEGRATION (TÍCH HỢP LIÊN TỤC)</b>
+	<br>
+	Mỗi khi có người commit code, hệ thống CI sẽ tự lấy code từ SVN, thực hiện build. Hệ thống sẽ gửi mail thông báo cho toàn bộ thành viên nếu như build bị lỗi. Cả nhóm chỉ việc đọc mail, xem ai là người commit revision đó, và “nắm đầu” thủ phạm, bắt hắn sửa lỗi.
+	<br>
+	<a href="https://toidicodedao.com/2015/08/27/giai-thich-don-gian-ve-ci-continuous-integration-tich-hop-lien-tuc/">***Bài viết giới thiệu</a>
+ </div>
+ <table>
+	<tr>
+	   <td>
+		  <img class="app-icon" src="content/webpack.svg" alt="k">
+	   </td>
+	   <td>
+		  <a href="https://webpack.github.io/">webpack</a>					
+	   </td>
+	   <td>
+		webpack giống Gulp, Grunt đều là hàng của nodejs nhưng mà nó là module phổ biến nhất.
+		<br>
+		webpack cho phép ta tích hợp và build ra file hoạt động. Vd: viết 5 file js, khi build ra đúng 1 file để dùng.
+		<br>
+		<a target="_blank" href="https://techtalk.vn/webpack-cho-nguoi-moi-bat-dau.html">Tham khảo</a>
+	   </td>
+	</tr>
+	<tr>
+	   <td>
+		  <img class="app-icon" src="content/GitLab CI.png" alt="I">
+	   </td>
+	   <td>
+		  GitLab CI					
+	   </td>
+	   <td>
+		GitLab khá nổi tiếng và là một mã nguồn mở của máy chủ Git được thực hiện bởi hơn 50.000 tổ chức. Trong vài năm gần đây Gitlad đã phát triển mạnh mẽ với sự hỗ trợ của cộng đồng mạng, hàng nghìn người sử dụng trên một máy chủ duy nhất hoặc một số máy chủ hoạt động tương tự. Nếu bạn cần thiết lập một máy chủ Git, thì GitLab cung cấp cho bạn một giải pháp hoàn hảo.
+	   </td>
+	</tr>
+	<tr>
+	   <td>
+		  <img class="app-icon" src="content/Jenkins.png" alt="s">
+	   </td>
+	   <td>
+		  Jenkins					
+	   </td>
+	   <td>
+		Jenkins là một phần mềm tự động hóa, mã nguồn mở và viết bằng Java. Dự án được tách ra từ dự án ban đầu là Hudson, sau khi xảy ra sự tranh chấp với Oracle.
+		<br>
+		Jenkins giúp tự động hóa các quy trình trong phát triển phần mềm, hiện nay được gọi theo thuật ngữ Tích hợp liên tục, và còn được dùng đến trong việc Phân phối liên tục. Jenkins là một phần mềm dạng server, chạy trên nền servlet với sự hỗ trợ của Apache Tomcat. Nó hỗ trợ hầu hết các phần mềm quản lý mã nguồn phổ biến hiện nay như Git, Subversion, Mercurial, ClearCase... Jenkins cũng hỗ trợ cả các mã lệnh của Shell và Windows Batch, đồng thời còn chạy được các mã lệnh của Apache Ant, Maven, Gradle... Người sáng tạo ra Jenkins là Kohsuke Kawaguchi. Phát hành theo giấy phép MIT nên Jenkins là phần mềm miễn phí.
+	   </td>
+	</tr>
+	<tr>
+	   <td>
+		  <img class="app-icon" src="content/TeamCity.png" alt="y">
+	   </td>
+	   <td>
+		  TeamCity					
+	   </td>
+	   <td>
+		TeamCity là một hệ thống CI viết bằng Java, máy chủ từ JetBrains. Nó được công bố lần đầu tiên vào 2/10/2006. Đây là một sản phẩm thương mại và bản quyền. Tuy vậy vẫn có phiên bản miễn phí. 
+	   </td>
+	</tr>
+	
+ </table>

@@ -1,0 +1,123 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/marketing-automation">
+                        Marketing Automation						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ActOn.png" alt="Act-On">
+                           </td>
+                           <td>
+                              Act-On					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Bounce Exchange.svg" alt="e">
+                           </td>
+                           <td>
+                              Bounce Exchange					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Oracle.png" alt="a">
+                           </td>
+                           <td>
+                              Eloqua					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/HubSpot.png" alt="t">
+                           </td>
+                           <td>
+                              HubSpot					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/infusionsoft.svg" alt="t">
+                           </td>
+                           <td>
+                              Infusionsoft					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Jirafe.png" alt="e">
+                           </td>
+                           <td>
+                              Jirafe					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mailchimp.svg" alt="p">
+                           </td>
+                           <td>
+                              Mailchimp					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Marketo.png" alt="o">
+                           </td>
+                           <td>
+                              Marketo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Pardot.png" alt="t">
+                           </td>
+                           <td>
+                              Pardot					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RD Station.png" alt="n">
+                           </td>
+                           <td>
+                              RD Station					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/RockRMS.svg" alt="S">
+                           </td>
+                           <td>
+                              RockRMS					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SumoMe.png" alt="e">
+                           </td>
+                           <td>
+                              SumoMe					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Yoast SEO.png" alt="O">
+                           </td>
+                           <td>
+                              Yoast SEO					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

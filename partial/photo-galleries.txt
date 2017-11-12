@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/photo-galleries">
+                        Photo Galleries						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Coppermine.png" alt="e">
+                           </td>
+                           <td>
+                              Coppermine					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Gallery.png" alt="y">
+                           </td>
+                           <td>
+                              Gallery					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/JAlbum.png" alt="m">
+                           </td>
+                           <td>
+                              JAlbum					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/phpAlbum.png" alt="m">
+                           </td>
+                           <td>
+                              phpAlbum					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

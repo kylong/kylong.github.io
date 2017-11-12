@@ -1,3 +1,0 @@
-<div>aaaa</div>
-<img class="app-icon" src="content/Adcash.svg" alt="h">
-<a href="http://www.adinfinity.com/">AdInfinity</a> 

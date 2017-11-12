@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/payment-processors">
+                        Payment Processors						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Wallet.png" alt="t">
+                           </td>
+                           <td>
+                              Google Wallet					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Klarna.svg" alt="t">
+                           </td>
+                           <td>
+                              Klarna Checkout					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/PayPal.png" alt="l">
+                           </td>
+                           <td>
+                              PayPal					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Stripe.png" alt="e">
+                           </td>
+                           <td>
+                              Stripe					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

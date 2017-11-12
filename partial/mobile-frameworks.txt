@@ -1,0 +1,78 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/mobile-frameworks">
+                        Mobile Frameworks						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Enyo.png" alt="o">
+                           </td>
+                           <td>
+                              Enyo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Jo.png" alt="o">
+                           </td>
+                           <td>
+                              Jo					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/jQTouch.png" alt="h">
+                           </td>
+                           <td>
+                              jQTouch					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/jQuery Mobile.svg" alt="e">
+                           </td>
+                           <td>
+                              jQuery Mobile					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Mobify.png" alt="y">
+                           </td>
+                           <td>
+                              Mobify					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Sencha Touch.png" alt="h">
+                           </td>
+                           <td>
+                              Sencha Touch					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Wink.png" alt="k">
+                           </td>
+                           <td>
+                              Wink					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/xui.png" alt="i">
+                           </td>
+                           <td>
+                              xui					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

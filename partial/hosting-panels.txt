@@ -1,0 +1,42 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/hosting-panels">
+                        Hosting Panels						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/bablic.png" alt="c">
+                           </td>
+                           <td>
+                              Bablic					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/cPanel.png" alt="l">
+                           </td>
+                           <td>
+                              cPanel					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/DirectAdmin.png" alt="n">
+                           </td>
+                           <td>
+                              DirectAdmin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Plesk.png" alt="k">
+                           </td>
+                           <td>
+                              Plesk					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

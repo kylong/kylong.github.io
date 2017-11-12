@@ -1,0 +1,114 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/web-server-extensions">
+                        Web Server Extensions						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google PageSpeed.png" alt="d">
+                           </td>
+                           <td>
+                              Google PageSpeed					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache.svg" alt="m">
+                           </td>
+                           <td>
+                              mod_auth_pam					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache.svg" alt="v">
+                           </td>
+                           <td>
+                              mod_dav					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache.svg" alt="i">
+                           </td>
+                           <td>
+                              mod_fastcgi					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Apache.svg" alt="k">
+                           </td>
+                           <td>
+                              mod_jk					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mod_perl.png" alt="l">
+                           </td>
+                           <td>
+                              mod_perl					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mod_python.png" alt="n">
+                           </td>
+                           <td>
+                              mod_python					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phusion Passenger.png" alt="k">
+                           </td>
+                           <td>
+                              mod_rack					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Phusion Passenger.png" alt="s">
+                           </td>
+                           <td>
+                              mod_rails					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mod_ssl.png" alt="l">
+                           </td>
+                           <td>
+                              mod_ssl					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/mod_wsgi.png" alt="i">
+                           </td>
+                           <td>
+                              mod_wsgi					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/OpenSSL.png" alt="L">
+                           </td>
+                           <td>
+                              OpenSSL					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

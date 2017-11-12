@@ -1,0 +1,33 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/media-servers">
+                        Media Servers						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Logitech Media Server.png" alt="r">
+                           </td>
+                           <td>
+                              Logitech Media Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MediaTomb.png" alt="b">
+                           </td>
+                           <td>
+                              MediaTomb					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Wowza Media Server.png" alt="r">
+                           </td>
+                           <td>
+                              Wowza Media Server					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

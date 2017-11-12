@@ -1,0 +1,78 @@
+﻿ <h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/database-managers">
+                        Database Managers						</a>
+                     </h2>
+					 <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/adminer.png" alt="r">
+                           </td>
+                           <td>
+                              Adminer					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/bablic.png" alt="c">
+                           </td>
+                           <td>
+                              Bablic					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/default.svg" alt="p">
+                           </td>
+                           <td>
+                              BigDump					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/bubble.png" alt="e">
+                           </td>
+                           <td>
+                              Bubble					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/phpliteadmin.png" alt="n">
+                           </td>
+                           <td>
+                              phpliteadmin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/phpMyAdmin.png" alt="n">
+                           </td>
+                           <td>
+                              phpMyAdmin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/phpPgAdmin.png" alt="n">
+                           </td>
+                           <td>
+                              phpPgAdmin					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/SQL Buddy.png" alt="y">
+                           </td>
+                           <td>
+                              SQL Buddy					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

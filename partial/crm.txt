@@ -1,0 +1,36 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/crm">
+                        CRM	
+						</a>
+                     </h2>
+					 <div>
+						CRM (Customer Relationship Management) tạm dịch là quản lý mối quan hệ khách hàng. Đơn giản có thể hiểu doanh nghiệp quản lý các tương tác với khách hàng từ đó hình thành mối quan hệ trong kinh doanh.
+						<br>
+						<a target="_blank" href="http://crmviet.vn/crm-la-gi-ma-khien-khach-hang-than-thiet/?utm_source=adwords&utm_medium=cpc&utm_campaign=Crm_Information&utm_term=crm%20l%C3%A0%20g%C3%AC&utm_content=&matchtype=p&device=c&network=g&gclid=Cj0KCQiA_5_QBRC9ARIsADVww14SXIOD6x01V0lXstFrsbJnDc1N3UgL7rdgO9gvCaivngjqLvIU_3YaAlZWEALw_wcB">***Chi tiết</a>
+					 </div>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/LiveHelp.png" alt="p">
+                           </td>
+                           <td>
+                              LiveHelp					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Salesforce.svg" alt="e">
+                           </td>
+                           <td>
+                              Salesforce					
+                           </td>
+                           <td>
+							Phần mềm CRM thông dụng nhất hiện nay.
+							<br>
+							Salesforce là giải pháp phần mềm CRM điện toán đám may theo yêu cầu (on-demand) hàng đầu thế giới. Saleforces là một bộ giải pháp phần mềm CRM tổng thể, cung cấp một loạt các ứng dụng CRM chuyên về bán hàng dịch vụ khách hàng dành cho các doanh nghiệp vừa và nhỏ.
+							<br>
+							Giới chuyên môn thường gọi SaleForce là "SFDC", giải pháp saleforce cung cấp giải pháp chuyên nghành quản lý dịch vụ y tế, chăm sóc sức khỏe và dịch vụ tài chính. Tuy nghiên mạng lưới đối tác của Salesforce(AppExchange) lại có khả năng cung cấp một loạt các giải pháp phần mềm cho nhiều nghành nghể đặc thù khác nhau. Ing71 dụng phần mềm của đối tác được phát triển trên nền tảng prorce đọc đáo, với kiến trúc hiện đại, có khả năng mở rộng một cách linh hoạt để đáp ứng nhu cầu tùy biến cho các doanh nghiệp ở mọi quy mô khác nhau.
+						   </td>
+                        </tr>
+                     </table>

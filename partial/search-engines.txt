@@ -1,0 +1,78 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/search-engines">
+                        Search Engines						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Algolia Realtime Search.svg" alt="h">
+                           </td>
+                           <td>
+                              Algolia Realtime Search					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Fact Finder.png" alt="r">
+                           </td>
+                           <td>
+                              Fact Finder					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FAST ESP.png" alt="P">
+                           </td>
+                           <td>
+                              FAST ESP					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/FAST Search for SharePoint.png" alt="t">
+                           </td>
+                           <td>
+                              FAST Search for SharePoint					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Google Search Appliance.png" alt="e">
+                           </td>
+                           <td>
+                              Google Search Appliance					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/kibana.svg" alt="a">
+                           </td>
+                           <td>
+                              Kibana					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Luigisbox.svg" alt="Luigi’s Box">
+                           </td>
+                           <td>
+                              Luigi’s Box					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/swiftype.png" alt="e">
+                           </td>
+                           <td>
+                              Swiftype					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

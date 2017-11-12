@@ -1,0 +1,123 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/cdn">
+                        CDN						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Airee.png" alt="e">
+                           </td>
+                           <td>
+                              Airee					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/akamai.svg" alt="i">
+                           </td>
+                           <td>
+                              Akamai					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Amazon-Cloudfront.svg" alt="t">
+                           </td>
+                           <td>
+                              Amazon Cloudfront					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/ArvanCloud.png" alt="d">
+                           </td>
+                           <td>
+                              ArvanCloud					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CacheFly.png" alt="y">
+                           </td>
+                           <td>
+                              CacheFly					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/CloudFlare.svg" alt="e">
+                           </td>
+                           <td>
+                              CloudFlare					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/EdgeCast.png" alt="t">
+                           </td>
+                           <td>
+                              EdgeCast					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Fastly.svg" alt="y">
+                           </td>
+                           <td>
+                              Fastly					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Fireblade.png" alt="e">
+                           </td>
+                           <td>
+                              Fireblade					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Incapsula.png" alt="a">
+                           </td>
+                           <td>
+                              Incapsula					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/KeyCDN.png" alt="N">
+                           </td>
+                           <td>
+                              KeyCDN					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/MaxCDN.png" alt="N">
+                           </td>
+                           <td>
+                              MaxCDN					
+                           </td>
+                           <td></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Netlify.svg" alt="y">
+                           </td>
+                           <td>
+                              Netlify					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>

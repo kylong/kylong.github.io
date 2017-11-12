@@ -1,0 +1,15 @@
+﻿<h2>
+                        <a target="_blank"  href="https://wappalyzer.com/categories/network-storage">
+                        Network Storage						</a>
+                     </h2>
+                     <table>
+                        <tr>
+                           <td>
+                              <img class="app-icon" src="content/Synology DiskStation.png" alt="n">
+                           </td>
+                           <td>
+                              Synology DiskStation					
+                           </td>
+                           <td></td>
+                        </tr>
+                     </table>
